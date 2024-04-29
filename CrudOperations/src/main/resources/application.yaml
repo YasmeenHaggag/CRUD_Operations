@@ -1,0 +1,9 @@
+server:
+  port: 8088
+
+spring:
+  data:
+    mongodb:
+      database: crudOperations
+      host: localhost
+      port: 27017
